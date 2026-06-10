@@ -65,7 +65,7 @@ BankProject/
 
   └── transactions.csv
 
-#### How to Run
+### How to Run
 
 1. Install Python 3.
 2. Open a terminal in the project directory.
