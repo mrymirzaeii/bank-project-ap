@@ -3,34 +3,7 @@ Bank Management System
 
 Advanced Programming Final Project
 
-Authors:
-- Maryam Mirzaei
-- Yalda Taheri
-
-Field of Study: Computer Science
-Entry Year: 1404
-Course Information
-Course: Advanced Programming
-Instructor: Zahra Rezvani
-Final Project: Bank Management System
-
-Team Contribution:
-
-Maryam Mirzaei
-
-- Project design and structure
-- Account management implementation
-- CSV data management
-- Final documentation
-
-Yalda Taheri
-
-- User management implementation
-- Authentication and login system
-- Transaction processing
-- Testing and project review
-
-Project Description
+### Project Description
 
 This project is a simple banking management system developed in Python for the Advanced Programming course.
 The system supports two types of users: Customers and Bankers.
@@ -72,7 +45,7 @@ Features
 - CSV File Storage
 - Object-Oriented Programming (OOP)
 
-Project Structure
+## Project Structure
 
 BankProject/
 
@@ -92,7 +65,7 @@ BankProject/
 
   └── transactions.csv
 
-How to Run
+#### How to Run
 
 1. Install Python 3.
 2. Open a terminal in the project directory.
@@ -112,3 +85,32 @@ Additional Features
 - Transaction reporting system
 - Account blocking/unblocking by banker
 
+### Authors:
+- Maryam Mirzaei
+- Yalda Taheri
+
+Field of Study: Computer Science
+Entry Year: 1404
+Course Information
+Course: Advanced Programming
+Instructor: Zahra Rezvani
+Final Project: Bank Management System
+
+## Team Contribution
+
+### Maryam Mirzaei
+- Project design and structure
+- Account management implementation
+- CSV data management
+- Final documentation
+
+### Yalda Taheri
+- User management implementation
+- Authentication and login system
+- Transaction processing
+- Testing and project review
+
+### GitHub Repository
+
+Repository Link:
+https://github.com/mrymirzaeii/bank-project-ap
