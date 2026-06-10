@@ -1,0 +1,8 @@
+account_id,username,account_type,balance,is_blocked
+A1001,ali,current,500000.0,no
+A1002,ali,savings,200000.0,no
+A1003,amir,current,750000.0,no
+A1004,amir,savings,300000.0,no
+A1005,zayn,current,200000.0,no
+A1006,zayn,savings,100000.0,no
+A2000,zayn,current,100000.0,no
