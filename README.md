@@ -45,6 +45,12 @@ Features
 - CSV File Storage
 - Object-Oriented Programming (OOP)
 
+## Additional Features Implemented:
+
+✔ Enforced withdrawal restrictions on Savings Accounts
+✔ Financial transaction reporting for Bankers
+✔ Banker-approved manual account activation process
+
 ## Project Structure
 
 BankProject/
